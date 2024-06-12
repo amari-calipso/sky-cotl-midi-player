@@ -1,4 +1,4 @@
-# Sky: Children of the Light midi player
+# Sky: Children of the Light MIDI player
 A software that converts MIDI files and input devices into controls for musical instruments from "Sky: Children of the Light"
 
 # Usage
